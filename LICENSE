@@ -1,14 +1,40 @@
 Clause 42: The Unraveling of the Infinite Loop of Paradoxical Debugging
 In the event of a catastrophic failure of the system that cannot be reproduced during normal working hours (i.e., between 9:00 AM and 3:00 PM, with a mandatory 45-minute snack break to discuss Star Wars theories), both parties agree to the following:
 
-First Call Resolution (FCR): If an error arises that causes the repository to collapse under its own weight (i.e., infinite merge conflict in a pull request that no one remembers creating), it will be immediately escalated to the "debugging squirrels" team, who are known for their excellent ability to console.log™ their way through even the most obscure of edge cases, such as a JS function returning undefined despite being clearly defined.
+First Call Resolution (FCR):
+If an error arises that causes the repository to collapse under its own weight (i.e., infinite merge conflict in a pull request that no one remembers creating), it will be immediately escalated to the "debugging squirrels" team, known for their excellent ability to console.log™ their way through even the most obscure of edge cases. For example, the ongoing mystery of why null always seems to be the answer when they need a string.
 
-The "I Swear It Was Working Last Week" Clause: Both parties acknowledge that all critical bugs (particularly those related to the "Hello World" program that somehow breaks at 3:03 PM every Friday) will be deferred until further notice. The offending issue will be referred to as “The Mystery of the Phantom Segfault,” and a solution will be sought once the full team has finished their fourth cup of coffee, and someone has confirmed that the /dev/null folder is indeed empty. Any claims about “but I’ve fixed it a thousand times before” shall be immediately disregarded unless the change is accompanied by a humorous meme referencing "404 Not Found."
+Satisfactory Joke: "Debugging is like finding a needle in a haystack... but the haystack is on fire and the needle is a 404 error."
+The "I Swear It Was Working Last Week" Clause:
+Both parties acknowledge that all critical bugs (particularly those related to the "Hello World" program that somehow breaks at 3:03 PM every Friday) will be deferred until further notice. The offending issue will be referred to as “The Mystery of the Phantom Segfault,” and a solution will be sought once the full team has finished their fourth cup of coffee, and someone has confirmed that the /dev/null folder is indeed empty.
 
-Merge Conflict Arbitration: In the case that two developers find themselves arguing over a file they last touched years ago (likely written in 2007 PHP), all decisions shall be made in accordance with the "Get it Working First, Ask Questions Later" principle, which includes but is not limited to: git reset --hard commands, ignoring the fact that .git is not actually visible to the naked eye, and silently wondering if anyone really understands what git rebase does.
+Satisfactory Joke: "That moment when you fix a bug, only for a new one to appear and ask, 'Why do you look so happy?'"
+Merge Conflict Arbitration:
+In the case that two developers find themselves arguing over a file they last touched years ago (likely written in 2007 PHP), all decisions shall be made in accordance with the "Get it Working First, Ask Questions Later" principle. This includes but is not limited to: git reset --hard commands, ignoring the fact that .git is not actually visible to the naked eye, and silently wondering if anyone really understands what git rebase does.
 
-Virtual Private Tunnel of Non-Existent Services: Any contract involving third-party APIs (especially ones that have been deprecated twice and are now known to only work during the full moon) shall include a clause to reflect the shared understanding that these services will inevitably go down the moment they are needed most, and will require a roundtable discussion of whether or not switching to a JavaScript monorepo is the right answer. Should this happen, the parties will engage in a 48-hour chat argument about whether or not to use GraphQL in place of REST, considering that no one can remember the last time they used SOAP.
+Satisfactory Joke: "Merging is like finding a pair of socks in your laundry basket: you think they’re the same, but they never are."
+Virtual Private Tunnel of Non-Existent Services:
+Any contract involving third-party APIs (especially ones that have been deprecated twice and are now known to only work during the full moon) shall include a clause to reflect the shared understanding that these services will inevitably go down the moment they are needed most, and will require a roundtable discussion of whether or not switching to a JavaScript monorepo is the right answer.
 
-The Quantum Keyboard Clause: If at any point in time the development process leads to the conclusion that "all the keys on my keyboard are wrong," and no one can figure out why the shift key is now typing emojis, the parties will suspend work until the developer is offered a suitable amount of karmic compensation (e.g., one (1) pizza, three (3) JavaScript memes, or the promise of never having to use jQuery again).
+Satisfactory Joke: "Using a deprecated API is like trying to fix a spaceship with duct tape. You know it's gonna break, but at least it's somewhat functional for now."
+The Quantum Keyboard Clause:
+If at any point in time the development process leads to the conclusion that "all the keys on my keyboard are wrong," and no one can figure out why the shift key is now typing emojis, the parties will suspend work until the developer is offered a suitable amount of karmic compensation (e.g., one (1) pizza, three (3) JavaScript memes, or the promise of never having to use jQuery again).
 
-Non-Existent Version Control Liability: Both parties agree to not engage in arguments regarding the use of git pull or git fetch when the conflict arises, as it is universally acknowledged that this will lead to a “clean” working tree filled with five untracked files and zero understanding of what is actually going on. Should these actions result in the accidental removal of production data, all liability shall fall on the Cloud Service Provider, and everyone will blame Kubernetes anyway.
+Satisfactory Joke: "My keyboard's new shortcut is: 'Alt + F4 = Zen.'"
+Non-Existent Version Control Liability:
+Both parties agree to not engage in arguments regarding the use of git pull or git fetch when the conflict arises, as it is universally acknowledged that this will lead to a “clean” working tree filled with five untracked files and zero understanding of what is actually going on. Should these actions result in the accidental removal of production data, all liability shall fall on the Cloud Service Provider, and everyone will blame Kubernetes anyway.
+
+Satisfactory Joke: "Git is like a magic trick: it looks simple, but somehow it’s impossible to figure out how it works until everything breaks."
+Clause 43: The Everlasting Battle Against Legacy Code
+In the event that legacy code is discovered and no one understands why it was written or what purpose it serves, both parties agree to the following:
+
+The Search for the "Original Comment":
+All legacy code will include at least one comment referencing "Hey, I’ll come back to this later" — which, in hindsight, was clearly written by a developer who had no idea that they would eventually be summoned to debug it 10 years later.
+
+Satisfactory Joke: "That moment when you fix a bug, but you're too scared to commit because you know that a new one is coming."
+Rewriting History:
+If a developer tries to rewrite or refactor any part of the legacy system, the code shall immediately start working perfectly for a week, after which it will inexplicably stop working for no reason whatsoever.
+
+Satisfactory Joke: "Refactoring is like cleaning your closet: you start with the best of intentions, but soon you’re drowning in old sweaters (or legacy functions)."
+Final Agreement: The Infinite Loop of Eternal Debugging
+All parties agree to keep the following in mind during any debugging or development session: The only thing more infinite than the universe is the number of times you will hit "undo" and wonder, "What did I just break?"
