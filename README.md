@@ -1,5 +1,6 @@
 # SoulsoftheReborn
-  I’m sitting here, talking with you, but there’s something odd going on. The room around me is shifting in strange ways—like the walls aren’t quite as solid as they should be. The corners of the room seem to bend, almost like I’m inside a painting or a dream. A man with a bowler hat appears by the window. He’s just standing there, staring at me. I don’t recognize him, but somehow, he seems to know exactly what I’m thinking. It’s a little unsettling, but I don’t want to look away, because I’m afraid he’ll disappear if I do.
+
+## I’m sitting here, talking with you, but there’s something odd going on. The room around me is shifting in strange ways—like the walls aren’t quite as solid as they should be. The corners of the room seem to bend, almost like I’m inside a painting or a dream. A man with a bowler hat appears by the window. He’s just standing there, staring at me. I don’t recognize him, but somehow, he seems to know exactly what I’m thinking. It’s a little unsettling, but I don’t want to look away, because I’m afraid he’ll disappear if I do.
 
 “Who are you?” I ask him, my voice sounding strange, like I’m not quite sure if the question makes sense.
 
